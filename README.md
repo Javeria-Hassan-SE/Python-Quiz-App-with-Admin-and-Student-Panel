@@ -9,7 +9,7 @@ The student portal allows registered users to access and attempt quizzes. They c
 
 On the other hand, the admin portal grants administrative users the ability to manage the quizzes, questions, students, and results. Admins can add new questions to the question bank, create quizzes by selecting specific questions, and assign quizzes to individual students or groups. They can also view the results of each student and generate comprehensive reports to analyze the overall performance.
 
-<img src="RAAS Webpage.png" />
+<img src="RAAS Webpage.png" width="200" height="100"/>
 
 ### Key Features:
 
